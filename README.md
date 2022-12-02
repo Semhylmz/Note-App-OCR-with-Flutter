@@ -1,4 +1,4 @@
-# Flutter-note-app-with-OCR
+# Flutter Note App with OCR
 
 Packages used:
 Text recognition/ OCR: Google ml kit
