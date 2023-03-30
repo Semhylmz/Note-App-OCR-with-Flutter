@@ -1,10 +1,18 @@
 # Flutter Note App with OCR
+## Basic Uses Cases
 
-Packages used:
--Text recognition/ OCR: Google ml kit
--State management: Provider
--Database: Sqflite 
--And others: İmage picker, Staggered grid view
+There are three ways for the user to add their notes.
+1. The text is scanned from the image and the found text is added
+2. Can add notes manually
+3. Can add voice memo
+
+If you want to edit the saved note, you can easily do so.
+
+## Packages used:
+* Text recognition/ OCR: Google ml kit
+* State management: Provider
+* Database: Sqflite 
+* And others: İmage picker, Staggered grid view
 
 ![Screenshot_20221226-200144](https://user-images.githubusercontent.com/55411723/209570422-5b23e2e3-ba86-4874-873a-14734ea7908a.png)
 ![Screenshot_20221226-200052](https://user-images.githubusercontent.com/55411723/209570424-263d1a73-a7a1-463f-a1ae-a096c25c55ef.png)
