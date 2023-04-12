@@ -14,9 +14,7 @@ If you want to edit the saved note, you can easily do so.
 * Database: Sqflite 
 * And others: İmage picker, Staggered grid view
 
-![logo](https://user-images.githubusercontent.com/55411723/231484641-b7f7074a-3ae0-4a4b-8ec0-b8407c5ba2e2.png)
-
 
 ## Application video
 <a href="https://www.youtube.com/watch?v=HC3hrBdMRU0">
-<img src="https://user-images.githubusercontent.com/55411723/231484641-b7f7074a-3ae0-4a4b-8ec0-b8407c5ba2e2.png" witdh="240" height="120"><a/>
+<img src="https://user-images.githubusercontent.com/55411723/221413219-0eb54050-c390-4cbe-b9b7-ebde2c0515fc.png" witdh="240" height="120"><a/>
