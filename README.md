@@ -14,4 +14,10 @@ If you want to edit the saved note, you can easily do so.
 * Database: Sqflite 
 * And others: İmage picker, Staggered grid view
 
-<a href=https://www.youtube.com/watch?v=3Ae_veDsGwY><img src=https://markdown-videos.deta.dev/youtube/WHyOHQ_GkNo></a></img>
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
