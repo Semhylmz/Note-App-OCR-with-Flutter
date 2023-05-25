@@ -17,4 +17,4 @@ If you want to edit the saved note, you can easily do so.
 
 ## Application video
 
-Uploading demo1.mp4…
+https://github.com/Semhylmz/Note-App-OCR-with-Flutter/assets/55411723/17d33292-6340-461d-95aa-afb29e76d16c
