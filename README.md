@@ -16,5 +16,5 @@ If you want to edit the saved note, you can easily do so.
 
 
 ## Application video
-<a href="https://www.youtube.com/watch?v=HC3hrBdMRU0">
-<img src="https://user-images.githubusercontent.com/55411723/221413219-0eb54050-c390-4cbe-b9b7-ebde2c0515fc.png" witdh="240" height="120"><a/>
+
+Uploading demo1.mp4…
