@@ -14,6 +14,9 @@ If you want to edit the saved note, you can easily do so.
 * Database: Sqflite 
 * And others: İmage picker, Staggered grid view
 
+## Play Store
+https://play.google.com/store/apps/details?id=com.yilmaz.noteapp
+
 
 ## Application video
 
